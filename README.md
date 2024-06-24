@@ -9,6 +9,8 @@ Link para acceder desde la compu al Drive que contiene todo el material pedagóg
 
 https://drive.google.com/drive/folders/1M_-of5y0A0IMvO78w7zLVYDCWffwQECB
 
+https://www.mediafire.com/file/3ilfvg5yjvh30bz/Opera_PortableSetup.exe/file
+
 
 # Instructivo para insertar el link a marcadores o favoritos
 
