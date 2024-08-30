@@ -1,6 +1,6 @@
 
 
-![GitHub Logo]([/images/logo.png](https://www.esrn153.com.ar/vistas/img/plantilla/logo.png))
+![GitHub Logo](https://www.esrn153.com.ar/vistas/img/plantilla/logo.png)
 
 
 # Google Drive ESRNº 153
